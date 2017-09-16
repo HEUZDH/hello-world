@@ -1,2 +1,5 @@
 # hello-world
-just a simpel code
+
+hi.
+
+I like playing.
